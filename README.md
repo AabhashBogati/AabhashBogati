@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data science<br>🌱 I’m currently learning python <br>💬 Ask me about SQL<br>⚡ Fun fact - I am a pretty quick learner
+🔭 I’m currently working on Javascript<br>🌱 I’m currently learning Javascript and its frameworks and libraries <br>💬 Ask me about SQL<br>⚡ Fun fact - I am a pretty quick learner
 
 
 ## 🌐 Socials:
